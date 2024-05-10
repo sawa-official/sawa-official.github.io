@@ -1,1 +1,0 @@
-import{report as e}from"./report.9d306f20.js";import{r as o,Q as t,o as s,K as n}from"./entry.9d51b9b2.js";const c=o(1),i=o(2);function p(){t("home",n()),s(()=>{console.log("test onMounted"),e("test_report_ow",{is_a:!1})})}function r(){console.log("say hello")}const f={sayHello:r};export{c as a,i as b,f as expose,r as sayHello,p as useComp};

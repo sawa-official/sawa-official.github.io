@@ -1,1 +1,0 @@
-import{a2 as r,aw as o,u as t}from"./entry.2e3246ee.js";import a from"./search-modal.pc.138e9e3c.js";import"./AboutSA2.bdd6ec85.js";import"./UICarouselView.7d8cc221.js";import"./search-cell.97ad87e4.js";function p(){if(r().isPc){o(a,{});return}t().push({name:"rechargeSearch"})}export{p as switchAccount};

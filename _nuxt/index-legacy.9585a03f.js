@@ -1,1 +1,0 @@
-System.register(["./index.vue-legacy.9ff47b8b.js","./entry-legacy.9f6b3903.js","./recharge-item-legacy.50370f22.js","./model-legacy.9e4c25ca.js"],(function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null,null,null],execute:function(){}}}));
